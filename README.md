@@ -44,6 +44,9 @@ vim ~/.vimrc
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)
 - [cohama/lexima.vim](https://github.com/cohama/lexima.vim)
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp)
+- [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim)
+- [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim)
+- [prabirshrestha/asyncomplete-lsp.vim](https://github.com/prabirshrestha/asyncomplete-lsp.vim)
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings)
 
 ## License
