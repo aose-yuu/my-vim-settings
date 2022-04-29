@@ -1,6 +1,9 @@
 #!/bin/bash
 
 cat <<EOF > .vimrc
+" polyglot SETTINGS
+let g:polyglot_disabled = ['markdown']
+
 call plug#begin('~/.vim/plugged')
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'

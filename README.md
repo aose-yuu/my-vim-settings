@@ -34,5 +34,17 @@ vim ~/.vimrc
 :PlugInstall
 ```
 
+## Plug-ins in use
+- [tpope/vim-surround](https://github.com/tpope/vim-surround)
+- [tpope/vim-commentary](https://github.com/tpope/vim-commentary)
+- [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
+- [joshdick/onedark.vim](https://github.com/)
+- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
+- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim)
+- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)
+- [cohama/lexima.vim](https://github.com/cohama/lexima.vim)
+- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp)
+- [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings)
+
 ## License
 this repository is MIT-licensed.
