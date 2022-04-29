@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cat<<EOF > .tmux.conf
+cat <<EOF > .tmux.conf
 # tmuxを256色表示できるようにする
 set-option -g default-terminal screen-256color
 set -g terminal-overrides 'xterm:colors=256'
