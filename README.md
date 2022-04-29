@@ -1,6 +1,6 @@
 # my-vim-settings
 
-# How to use?
+## How to use
 1. install vim
 ```
 brew install vim
@@ -25,3 +25,14 @@ brew install tmux
 ```
 ./tmux-install.sh
 ```
+
+5. settings for vim-plug
+```
+vim ~/.vimrc
+```
+```
+:PlugInstall
+```
+
+## License
+this repository is MIT-licensed.
