@@ -88,3 +88,5 @@ bind -T copy-mode-vi Y send -X copy-line
 # Prefix keyが押されているか判定
 set-option -g status-left '#[fg=cyan,bg=#303030]#{?client_prefix,#[reverse],} #H[#S] #[default]'
 EOF
+
+mv .tmux.conf ~/.tmux.conf
