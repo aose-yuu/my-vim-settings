@@ -10,8 +10,8 @@ Plug 'sheerun/vim-polyglot'
 Plug 'lambdalisue/fern.vim'
 Plug 'Yggdroot/indentLine'
 Plug 'cohama/lexima.vim'
-" Plug 'prabirshrestha/vim-lsp'
-" Plug 'mattn/vim-lsp-settings'
+Plug 'prabirshrestha/vim-lsp'
+Plug 'mattn/vim-lsp-settings'
 call plug#end()
 
 " set termguicolors
