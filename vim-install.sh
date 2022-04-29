@@ -14,6 +14,9 @@ Plug 'lambdalisue/fern.vim'
 Plug 'Yggdroot/indentLine'
 Plug 'cohama/lexima.vim'
 Plug 'prabirshrestha/vim-lsp'
+Plug 'prabirshrestha/async.vim'
+Plug 'prabirshrestha/asyncomplete.vim'
+Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'mattn/vim-lsp-settings'
 call plug#end()
 
